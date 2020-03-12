@@ -22,15 +22,7 @@ body {
     float: right; 
 }
 
-.red { 
-    color: #FF5049 !important; 
-}
-
-.red-focus:focus { 
-    border: 1px solid #FF5049 !important; 
-}
-
-/***********TOP PART***********/
+/*****TOP******/
 
 .top {
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(img2.jpeg);
@@ -43,7 +35,6 @@ body {
 .budget-table {
     color: #fff;
     width: 45%;
-    
     position: absolute;
     top: 50%;
     left: 50%;
@@ -109,11 +100,7 @@ body {
 }
 
 
-/**********************************************
-*** BOTTOM PART
-**********************************************/
-
-/***** FORM *****/
+/***** BOTTOM***/
 .input-line {
     padding: 20px;
     padding-top: 30px;
@@ -173,7 +160,6 @@ body {
 }
 
 .income {
-    /* border: 1px solid blue; */
     width: 380px;
     float: left;
     box-sizing: border-box;
@@ -181,14 +167,13 @@ body {
 }
 
 .expenses {
-    /* border: 1px solid green; */
     width: 380px;
     float: left;
     box-sizing: border-box;
 }
 
 h2 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     margin-bottom: 15px;
 }
