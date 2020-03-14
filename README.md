@@ -1,6 +1,6 @@
 # MonthlyBudget
 
-This program helps users to manage their budget for the current month. 
+This program helps users to keep track of their budget for the current month. 
 They can input description and amount of income/expense to the input box,
 and the new item will be added to the list at the bottom. 
 At the top, the budget will be calculated and updated every time a user inputs or deletes item.
